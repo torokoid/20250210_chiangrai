@@ -142,7 +142,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、車の運転だけで終わった1日、映像は追って追記予定です<br>しばしお待ちを。</span></h2>
+<h2><span class="yellow">以上、車の運転だけで終わった1日で編集時間が確保できず、映像は追って追記予定です<br>しばしお待ちを。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
