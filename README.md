@@ -116,7 +116,7 @@ p.note { display: none; }
 
 
 <!--QRコードの挿入例-->
-<p align="left"> <img src="QR_2025Feb09.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
+<p align="left"> <img src="QR_2025Feb10.png" alt="アクセス用QRコード" width="100">アクセス用QRコード</p>
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
@@ -142,7 +142,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、映像は追って追記予定です<br>しばしお待ちを。</span></h2>
+<h2><span class="yellow">以上、車の運転だけで終わった1日、映像は追って追記予定です<br>しばしお待ちを。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
