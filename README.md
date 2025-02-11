@@ -127,9 +127,11 @@ p.note { display: none; }
 
 <!--ここから下が、本体部分-->
 
-<h2><span class="yellow">一旦画像のみ追記します、説明は追って・・・</span></h2>
+<h2><span class="yellow">朝焼けはでした 6:56</span></h2>
 <a href="IMG_4023.jpeg" target="_blank"><img src="IMG_4023.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4024.jpeg" target="_blank"><img src="IMG_4024.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">日の出と共ににGo！</span></h2>
 <a href="IMG_4025.jpeg" target="_blank"><img src="IMG_4025.jpeg" alt="サンプル画像" width="900" /></a>
 
 <a href="IMG_4028.jpeg" target="_blank"><img src="IMG_4028.jpeg" alt="サンプル画像" width="900" /></a>
