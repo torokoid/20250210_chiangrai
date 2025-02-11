@@ -134,6 +134,7 @@ p.note { display: none; }
 <h2><span class="yellow">日の出と共にチェンマイに向けてGo！</span></h2>
 <a href="IMG_4025.jpeg" target="_blank"><img src="IMG_4025.jpeg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">市街地を結ぶ一般国道ですがママは子ども乗せて100km/hクルーズ</span></h2>
 <a href="IMG_4028.jpeg" target="_blank"><img src="IMG_4028.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4029.jpeg" target="_blank"><img src="IMG_4029.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4030.jpeg" target="_blank"><img src="IMG_4030.jpeg" alt="サンプル画像" width="900" /></a>
