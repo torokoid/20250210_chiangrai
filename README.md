@@ -137,18 +137,25 @@ p.note { display: none; }
 <h2><span class="yellow">市街地を結ぶ一般国道ですがママは子ども乗せて100km/hクルーズ</span></h2>
 <a href="IMG_4028.jpeg" target="_blank"><img src="IMG_4028.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4029.jpeg" target="_blank"><img src="IMG_4029.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">カフェ併設のガソリンスタンドで給油</span></h2>
 <a href="IMG_4030.jpeg" target="_blank"><img src="IMG_4030.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4031.jpeg" target="_blank"><img src="IMG_4031.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4032.jpeg" target="_blank"><img src="IMG_4032.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4033.jpeg" target="_blank"><img src="IMG_4033.jpeg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">次のスタンドはお花が満開でした</span></h2>
 <a href="IMG_4035.jpeg" target="_blank"><img src="IMG_4035.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4036.jpeg" target="_blank"><img src="IMG_4036.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4037.jpeg" target="_blank"><img src="IMG_4037.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4038.jpeg" target="_blank"><img src="IMG_4038.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4039.jpeg" target="_blank"><img src="IMG_4039.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4040.jpeg" target="_blank"><img src="IMG_4040.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">チェンマイの市街地に到着</span></h2>
 <a href="IMG_4041.jpeg" target="_blank"><img src="IMG_4041.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ビルの屋上に木が植ってます</span></h2>
 <a href="IMG_4042.jpeg" target="_blank"><img src="IMG_4042.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4043.jpeg" target="_blank"><img src="IMG_4043.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4044.jpeg" target="_blank"><img src="IMG_4044.jpeg" alt="サンプル画像" width="900" /></a>
