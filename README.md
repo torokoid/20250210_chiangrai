@@ -159,7 +159,7 @@ p.note { display: none; }
 <a href="IMG_4042.jpeg" target="_blank"><img src="IMG_4042.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4043.jpeg" target="_blank"><img src="IMG_4043.jpeg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">サイドカーの荷物が落ちそうにも、押さえながら元気に走る無しのバイク</span></h2>
+<h2><span class="yellow">サイドカーの荷物が落ちそうになるも、押さえながら元気に走る無しのバイク</span></h2>
 <a href="IMG_4044.jpeg" target="_blank"><img src="IMG_4044.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">この門をくぐるとチェンマイ中心部エリア</span></h2>
@@ -178,15 +178,17 @@ p.note { display: none; }
 <a href="IMG_4051.jpeg" target="_blank"><img src="IMG_4051.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4052.jpeg" target="_blank"><img src="IMG_4052.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4053.jpeg" target="_blank"><img src="IMG_4053.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">一見お客さんに見える店員さん</span></h2>
 <a href="IMG_4054.jpeg" target="_blank"><img src="IMG_4054.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4055.jpeg" target="_blank"><img src="IMG_4055.jpeg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">一見お客さんに見える店員さん</span></h2>
+<h2><span class="yellow">白人女性のGrが目立ちます</span></h2>
 <a href="IMG_4057.jpeg" target="_blank"><img src="IMG_4057.jpeg" alt="サンプル画像" width="900" /></a>
 
 <a href="IMG_4059.jpeg" target="_blank"><img src="IMG_4059.jpeg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">白人女性のGrが目立ちます</span></h2>
+
 <a href="IMG_4060.jpeg" target="_blank"><img src="IMG_4060.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4061.jpeg" target="_blank"><img src="IMG_4061.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4062.jpeg" target="_blank"><img src="IMG_4062.jpeg" alt="サンプル画像" width="900" /></a>
