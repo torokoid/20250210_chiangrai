@@ -270,7 +270,7 @@ p.note { display: none; }
 <h2><span class="yellow">街中の学校の上にお月様</span></h2>
 <a href="IMG_4104.jpeg" target="_blank"><img src="IMG_4104.jpeg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">別の親戚宅にも寄りましたが、こちらの仏壇の上にもお月様</span></h2>
+<h2><span class="yellow">別の親戚宅にも寄りましたが、こちらの仏壇は綺麗に祀られていました</span></h2>
 <a href="IMG_4107.jpeg" target="_blank"><img src="IMG_4107.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">チェンマイの夜空にオリオン座、冬の大三角形と、右下屋根の上にカノープス</span></h2>
