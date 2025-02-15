@@ -218,8 +218,8 @@ p.note { display: none; }
 <h2><span class="yellow">喫茶店までの通路が工場の資材置き場という違和感</span></h2>
 <a href="IMG_4076.jpeg" target="_blank"><img src="IMG_4076.jpeg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">喫茶店があるという事を示す唯一の看板</span></h2>
-<a href="IMG_4078.jpeg" target="_blank"><img src="IMG_4078.jpeg" alt="サンプル画像" width="900" /></a>
+<h2><span class="yellow">喫茶店があるという事を示す唯一の看板<br>画像のクリックでGoogleMapsに飛びます ↓</span></h2>
+<a href="https://www.google.com/maps/place/Undo+Studio/@18.7615464,98.9953522,17z/data=!3m1!4b1!4m6!3m5!1s0x30da314332d7a12f:0x2b06b0e1f0361bb7!8m2!3d18.7615464!4d98.9979325!16s%2Fg%2F11frbbcshl!5m1!1e2?authuser=0&entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D" target="_blank"><img src="IMG_4078.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">このお店はネットでの評判でお客さんが途切れないとのこと</span></h2>
 <a href="IMG_4079.jpeg" target="_blank"><img src="IMG_4079.jpeg" alt="サンプル画像" width="900" /></a>
