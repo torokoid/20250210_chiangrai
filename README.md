@@ -186,12 +186,19 @@ p.note { display: none; }
 <h2><span class="yellow">白人女性のGrが目立ちます</span></h2>
 <a href="IMG_4057.jpeg" target="_blank"><img src="IMG_4057.jpeg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">緊急車両の音量は凄まじいレベル</span></h2>
 <a href="IMG_4059.jpeg" target="_blank"><img src="IMG_4059.jpeg" alt="サンプル画像" width="900" /></a>
 
-
+<h2><span class="yellow">雑貨屋さんの上にある喫茶店に向かいます</span></h2>
 <a href="IMG_4060.jpeg" target="_blank"><img src="IMG_4060.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">業務用のエレベータで上がります</span></h2>
 <a href="IMG_4061.jpeg" target="_blank"><img src="IMG_4061.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">到着するとすごくお洒落な喫茶店</span></h2>
 <a href="IMG_4062.jpeg" target="_blank"><img src="IMG_4062.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ベランダに出られて、外の眺めもなかなかのものでした</span></h2>
 <a href="IMG_4063.jpeg" target="_blank"><img src="IMG_4063.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4064.jpeg" target="_blank"><img src="IMG_4064.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4065.jpeg" target="_blank"><img src="IMG_4065.jpeg" alt="サンプル画像" width="900" /></a>
@@ -204,51 +211,79 @@ p.note { display: none; }
 <a href="IMG_4072.jpeg" target="_blank"><img src="IMG_4072.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4073.jpeg" target="_blank"><img src="IMG_4073.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4074.jpeg" target="_blank"><img src="IMG_4074.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">通路に保管されているカーボン自転車</span></h2>
 <a href="IMG_4075.jpeg" target="_blank"><img src="IMG_4075.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">喫茶店までの通路が工場の資材置き場という違和感</span></h2>
 <a href="IMG_4076.jpeg" target="_blank"><img src="IMG_4076.jpeg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">喫茶店があるという事を示す唯一の看板</span></h2>
 <a href="IMG_4078.jpeg" target="_blank"><img src="IMG_4078.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">このお店はネットでの評判でお客さんが途切れないとのこと</span></h2>
 <a href="IMG_4079.jpeg" target="_blank"><img src="IMG_4079.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">先日亡くなった日本人の死亡届で日本総領事館を訪ねます</span></h2>
 <a href="IMG_4080.jpeg" target="_blank"><img src="IMG_4080.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4081.jpeg" target="_blank"><img src="IMG_4081.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4082.jpeg" target="_blank"><img src="IMG_4082.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">タイ、チェンマイの中心部に桜の御紋</span></h2>
 <a href="IMG_4083.jpeg" target="_blank"><img src="IMG_4083.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">タイ語の通訳(左)と書類の審査官</span></h2>
 <a href="IMG_4084.jpeg" target="_blank"><img src="IMG_4084.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">こちらが喋るまでタイ人だと思われてました</span></h2>
 <a href="IMG_4085.jpeg" target="_blank"><img src="IMG_4085.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">死亡届も受理されて帰路に着きます</span></h2>
 <a href="IMG_4086.jpeg" target="_blank"><img src="IMG_4086.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4087.jpeg" target="_blank"><img src="IMG_4087.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4088.jpeg" target="_blank"><img src="IMG_4088.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4089.jpeg" target="_blank"><img src="IMG_4089.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4090.jpeg" target="_blank"><img src="IMG_4090.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4091.jpeg" target="_blank"><img src="IMG_4091.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">途中にいくつもの仏教寺院</span></h2>
 <a href="IMG_4092.jpeg" target="_blank"><img src="IMG_4092.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4093.jpeg" target="_blank"><img src="IMG_4093.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">ガソリンスタンドでは産直販売の農作物</span></h2>
 <a href="IMG_4094.jpeg" target="_blank"><img src="IMG_4094.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4095.jpeg" target="_blank"><img src="IMG_4095.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4096.jpeg" target="_blank"><img src="IMG_4096.jpeg" alt="サンプル画像" width="900" /></a>
 
-
-
-
 <h2><span class="yellow">背景画像と同じですが、10日の日没</span></h2>
 <a href="IMG_4097.jpg" target="_blank"><img src="IMG_4097.jpg" alt="サンプル画像" width="900" /></a>
-    
-
 <a href="IMG_4099.jpeg" target="_blank"><img src="IMG_4099.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4100.jpeg" target="_blank"><img src="IMG_4100.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">カカオ豆の卸をする親戚に寄ります<br>お母さんの腕にはApple Watch</span></h2>
 <a href="IMG_4101.jpeg" target="_blank"><img src="IMG_4101.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">カカオ豆の袋にはLINE連絡用のQRコード</span></h2>
 <a href="IMG_4102.jpeg" target="_blank"><img src="IMG_4102.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4103.jpeg" target="_blank"><img src="IMG_4103.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">街中の学校の上にお月様</span></h2>
 <a href="IMG_4104.jpeg" target="_blank"><img src="IMG_4104.jpeg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">別の親戚宅にも寄りましたが、こちらの仏壇の上にもお月様</span></h2>
 <a href="IMG_4107.jpeg" target="_blank"><img src="IMG_4107.jpeg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">チェンマイの夜空にオリオン座、冬の大三角形と、右下屋根の上にカノープス</span></h2>
 <a href="IMG_4109.jpeg" target="_blank"><img src="IMG_4109.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4110.jpeg" target="_blank"><img src="IMG_4110.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4111.jpeg" target="_blank"><img src="IMG_4111.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">最後はチェンライ県メーチャンに戻って屋台で焼きそば</span></h2>
 <a href="IMG_4112.jpeg" target="_blank"><img src="IMG_4112.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4113.jpeg" target="_blank"><img src="IMG_4113.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4114.jpeg" target="_blank"><img src="IMG_4114.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">なかなかの逸品でした、60バーツ</span></h2>
 <a href="IMG_4115.jpeg" target="_blank"><img src="IMG_4115.jpeg" alt="サンプル画像" width="900" /></a>
 
 
@@ -262,7 +297,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、車の運転だけで終わった1日で編集時間が確保できず、映像は追って追記予定です<br>しばしお待ちを。</span></h2>
+<h2><span class="yellow">以上、車の運転だけで終わった1日でした。<br>ここまでご覧いただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
@@ -299,7 +334,7 @@ p.note { display: none; }
 
 <!-- フッタ -->
 <footer>
-<p>Copyright 2025/02/10 alis @ChiangRai</p>
+<p>Copyright 2025/02/15 alis @ChiangRai</p>
 </footer>
 
 <!--HPにさまざまなJavaScriptを呼び込むための書式-->
