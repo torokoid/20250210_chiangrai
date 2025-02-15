@@ -159,7 +159,7 @@ p.note { display: none; }
 <a href="IMG_4042.jpeg" target="_blank"><img src="IMG_4042.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4043.jpeg" target="_blank"><img src="IMG_4043.jpeg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">サイドカーの荷物が落ちそうになるも、押さえながら元気に走る無しのバイク</span></h2>
+<h2><span class="yellow">サイドカーの荷物が落ちそうになるも、押さえながら元気に走るNo無しのバイク</span></h2>
 <a href="IMG_4044.jpeg" target="_blank"><img src="IMG_4044.jpeg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">この門をくぐるとチェンマイ中心部エリア</span></h2>
