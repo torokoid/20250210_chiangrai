@@ -283,7 +283,7 @@ p.note { display: none; }
 <a href="IMG_4113.jpeg" target="_blank"><img src="IMG_4113.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="IMG_4114.jpeg" target="_blank"><img src="IMG_4114.jpeg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">なかなかの逸品でした、60バーツ</span></h2>
+<h2><span class="yellow">なかなかの逸品でした、70バーツ</span></h2>
 <a href="IMG_4115.jpeg" target="_blank"><img src="IMG_4115.jpeg" alt="サンプル画像" width="900" /></a>
 
 
